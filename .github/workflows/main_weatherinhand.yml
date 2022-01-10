@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'weatherinhand'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F1FE65C5F7F840CD962520CF31A6329D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_16DD9BE18C48424B8712AFCCC3ED3BCF }}
           package: .
