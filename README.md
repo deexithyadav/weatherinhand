@@ -1,1 +1,1 @@
-# weatherinhand
+https://weatherinhand.azurewebsites.net/
